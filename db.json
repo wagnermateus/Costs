@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Flyer ",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "novo serviço",
+          "cost": "3000",
+          "description": "servico test",
+          "id": "70fef573-6aed-4ae4-b1bc-037df33c1b7a"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
